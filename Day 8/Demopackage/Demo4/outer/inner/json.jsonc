@@ -1,0 +1,18 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python39\\python.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "python.languageServer": "Pylance",
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Default High Contrast",
+    "window.zoomLevel": -2
+}
